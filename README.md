@@ -35,3 +35,6 @@ Open within Photoshop:
 
 
 File > Scripts > NightBits iOS Images Creator 
+
+
+PLANNED FUTURE RELEASE:  Automatic Asset Catalog creations for Icons and SplashScreens
