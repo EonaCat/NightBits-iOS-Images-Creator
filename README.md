@@ -14,27 +14,25 @@ Created by NightBits
 Put this file in the following folder and restart photoshop: 
 
 
-X86 : C:\Program Files\Adobe\Adobe Photoshop CS6\Presets\Scripts 
+X86 : <br/> C:\Program Files\Adobe\Adobe Photoshop CS6\Presets\Scripts 
 
-X64 : C:\Program Files (x86)\Adobe\Adobe Photoshop CS6\Presets\Scripts 
+X64 : <br/>  C:\Program Files (x86)\Adobe\Adobe Photoshop CS6\Presets\Scripts <br/> 
 C:\Program Files\Adobe\Adobe Photoshop CS6 (64 Bit)\Presets\Scripts
 
-Tested with the following photoshop versions: 
+Tested with the following photoshop versions: <br/> 
 
 
-CS 5 
-CS 6 
+CS 5 <br/> 
+CS 6 <br/> 
 
 Put this file in the following folder and restart photoshop: 
-X86 : C:\Program Files\Adobe\Adobe Photoshop CS6\Presets\Scripts 
+X86 : <br/> C:\Program Files\Adobe\Adobe Photoshop CS6\Presets\Scripts <br/> 
 
-X64 : C:\Program Files (x86)\Adobe\Adobe Photoshop CS6\Presets\Scripts 
+X64 : <br/>  C:\Program Files (x86)\Adobe\Adobe Photoshop CS6\Presets\Scripts <br/> 
 C:\Program Files\Adobe\Adobe Photoshop CS6 (64 Bit)\Presets\Scripts
 
 Open within Photoshop: 
 
-
 File > Scripts > NightBits iOS Images Creator 
-
 
 PLANNED FUTURE RELEASE:  Automatic Asset Catalog creations for Icons and SplashScreens
