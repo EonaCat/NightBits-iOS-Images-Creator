@@ -174,23 +174,37 @@ function createImages(file, type)
 return true;
 }
 
-    var icon = File.openDialog("Select a PNG file that is at least 1024x1024. (This is for the icon)", "*.png", false);
+function createSplashScreens()
+{
     var splashscreen = File.openDialog("Select a PNG file that is at least 1024x1024. (This is for the splashscreen)", "*.png", false);
+
+        if (splashscreen !== null) 
+        { 
+            if (createImages(splashscreen, "splashscreen"))
+            {
+               alert("iOS Splashscreens created!");
+            }
+        }    
+}
+
+function createIcons()
+{
+    var icon = File.openDialog("Select a PNG file that is at least 1024x1024. (This is for the icon)", "*.png", false);
    
     if (icon !== null) 
     { 
         if (createImages(icon, "icon"))
         {
           alert("iOS Icons created!");
+          var result = confirm("Do you want to create splashscreens as well?", false);
+           if (result == true) 
+           { 
+                createSplashscreens();
+           }
         }
     }
+}
 
-    if (splashscreen !== null) 
-    { 
-        if (createImages(splashscreen, "splashscreen"))
-        {
-          alert("iOS Splashscreens created!");
-        }
-    }
+createIcons();
 
-    alert("Thank you for using the iOS image creation script. Created by NightBits");
+alert("Thank you for using the iOS image creation script. Created by NightBits");
