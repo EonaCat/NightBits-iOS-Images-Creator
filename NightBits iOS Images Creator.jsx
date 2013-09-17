@@ -199,7 +199,7 @@ function createIcons()
           var result = confirm("Do you want to create splashscreens as well?", false);
            if (result == true) 
            { 
-                createSplashscreens();
+                createSplashScreens();
            }
         }
     }
