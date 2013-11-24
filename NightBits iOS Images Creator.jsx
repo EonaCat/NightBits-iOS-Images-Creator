@@ -156,9 +156,9 @@ function createImages(document, type)
         {"name": "splashscreen_768x1024-1",         "wsize":768,    "hsize":1024},        
         
         {"name": "splashscreen_1024x768",         "wsize":1024,   "hsize":768},
+        {"name": "splashscreen_1024x768-1",         "wsize":1024,   "hsize":768},
 
         {"name": "splashscreen_1024x748",         "wsize":1024,   "hsize":748},
-        {"name": "splashscreen_1024x748-1",         "wsize":1024,   "hsize":748},
         
         {"name": "splashscreen_1536x2008",        "wsize":1536,   "hsize":2008},
 
