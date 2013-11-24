@@ -120,7 +120,6 @@ function createImages(document, type)
         {"name": "icon58x58-1",     "wsize":58,     "hsize":58},
         
         {"name": "icon72x72",        "wsize":72,    "hsize":72},        
-        {"name": "icon72x72-1",     "wsize":72,    "hsize":72},  
         
         {"name": "icon76x76",        "wsize":76,    "hsize":76},
         
@@ -143,10 +142,13 @@ function createImages(document, type)
         {"name": "Default@2x",                           "wsize":640,   "hsize":960},
         {"name": "Default-568h@2x",                   "wsize":640,   "hsize":1136},
         
+        {"name": "splashscreen_320x480",           "wsize":320,    "hsize":480},        
+        
         {"name": "splashscreen_640x960",           "wsize":640,    "hsize":960},
         {"name": "splashscreen_640x960-1",           "wsize":640,    "hsize":960},
         
         {"name": "splashscreen_640x1136",           "wsize":640,    "hsize":1136},
+        {"name": "splashscreen_640x1136-1",           "wsize":640,    "hsize":1136},
 
         {"name": "splashscreen_768x1004",         "wsize":768,    "hsize":1004},
         
@@ -154,7 +156,6 @@ function createImages(document, type)
         {"name": "splashscreen_768x1024-1",         "wsize":768,    "hsize":1024},        
         
         {"name": "splashscreen_1024x768",         "wsize":1024,   "hsize":768},
-        {"name": "splashscreen_1024x768-1",         "wsize":1024,   "hsize":768},
 
         {"name": "splashscreen_1024x748",         "wsize":1024,   "hsize":748},
         {"name": "splashscreen_1024x748-1",         "wsize":1024,   "hsize":748},
