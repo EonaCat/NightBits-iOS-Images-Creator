@@ -24,6 +24,7 @@ Tested with the following photoshop versions: <br/>
 
 CS 5 <br/> 
 CS 6 <br/> 
+CS Creative Cloud <br/> 
 
 Put this file in the following folder and restart photoshop: <br/> 
 
@@ -37,6 +38,7 @@ Tested with the following photoshop versions: <br/>
 
 CS 5 <br/> 
 CS 6 <br/> 
+CS Creative Cloud <br/> 
 
 Put this file in the following folder and restart photoshop: <br/> 
 X86 : <br/> C:\Program Files\Adobe\Adobe Photoshop CS6\Presets\Scripts <br/> 
